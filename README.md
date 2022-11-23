@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a gift exchange match generator
+- 🌱 I’m currently learning assembly
+
 <!--
 **6d62/6d62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
