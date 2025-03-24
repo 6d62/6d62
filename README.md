@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a gift exchange match generator
-- 🌱 I’m currently learning assembly
+- 🔭 I’m currently working on a static blog with a comment section.
+- 🌱 I’m currently learning web things
 
 <!--
 **6d62/6d62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
